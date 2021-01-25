@@ -3,7 +3,7 @@
 openEuler上的红色警报游戏
 
 ### 项目描述
-经典的windows游戏 RedAlert 已经开源(https://github.com/electronicarts/CnC_Remastered_Collection/tree/master/REDALERT)，Ubuntu系统上也已有可用的包。
+经典的windows游戏 RedAlert 已经 [开源](https://github.com/electronicarts/CnC_Remastered_Collection/tree/master/REDALERT)，Ubuntu系统上也已有可用的包。
 目前，openEuler系统也需要增加娱乐性以扩大吸引力。
 请把这款经典的游戏移植到openEuler或基于openEuler的其它操作系统上。可以基于QT库[license：(L)GPL]或其它GUI库去移植。
 
