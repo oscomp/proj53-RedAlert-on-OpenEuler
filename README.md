@@ -23,11 +23,9 @@ openEuler上的红色警报游戏
 
 ### 项目导师
 
-张相锋
+张旭舟\
 
-* github https://github.com/mailofzxf
-
-* email mailofzxf@aliyun.com
+* email zhangxuzhou4@huawei.com
 
 
 
